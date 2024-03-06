@@ -1,0 +1,1 @@
+{"usuarios": {"peer1": {"password": "txt", "url": "http://localhost:5000", "archivos": ["archivo1.txt", "archivo2.txt"]}, "peer2": {"password": "txt", "url": "http://localhost:5000", "archivos": ["archivo1.txt", "archivo3.txt"]}}}
